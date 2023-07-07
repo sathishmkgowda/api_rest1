@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-28T07:41:55 PDT" name="Default suite" finished-at="2023-03-28T07:41:59 PDT" duration-ms="3520">
+    <groups>
+    </groups>
+    <test started-at="2023-03-28T07:41:55 PDT" name="Default test" finished-at="2023-03-28T07:41:59 PDT" duration-ms="3520">
+      <class name="day3.cookiesdemo">
+        <test-method signature="getcookiesinfo()[pri:0, instance:day3.cookiesdemo@625732]" started-at="2023-03-28T07:41:56 PDT" name="getcookiesinfo" finished-at="2023-03-28T07:41:59 PDT" duration-ms="3458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getcookiesinfo -->
+      </class> <!-- day3.cookiesdemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
